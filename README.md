@@ -1,5 +1,5 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
-# 🧠 Evaluación Sumativa 2  – Desarrollo Orientado a Objetos II
+# 🧠 Evaluación Final Transversal  – Desarrollo Orientado a Objetos II
 
 ## 👤 Autor del proyecto
 - **Nombre completo:** Ariel Francisco Alcayaga Cartagena
@@ -11,7 +11,7 @@
 
 ## 📘 Descripción general del sistema
 
-Este proyecto corresponde a la Evaluación Sumativa 2 de la asignatura Desarrollo Orientado a Objetos II. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real.
+Este proyecto corresponde a la Evaluación Final Transversal de la asignatura Desarrollo Orientado a Objetos II. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real.
 
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
 
@@ -50,10 +50,10 @@ git clone https://github.com/arielalcayaga/SpeedFast.git
 
 ---
 
-**Repositorio GitHub:** [https://github.com/arielalcayaga/SpeedFast.git]
-**Fecha de entrega:** \[14/09/2026]
+**Repositorio GitHub:** [https://github.com/arielalcayaga/Biblioteca.git]
+**Fecha de entrega:** \[11/10/2026]
 
 ---
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Sumativa 2.
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal.
 
