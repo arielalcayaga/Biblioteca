@@ -23,7 +23,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/arielalcayaga/SpeedFast.git
+git clone https://github.com/arielalcayaga/Biblioteca.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
