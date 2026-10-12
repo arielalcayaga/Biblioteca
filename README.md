@@ -17,21 +17,6 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 
 ---
 
-## 🧱 Estructura general del proyecto
-
-```plaintext
-
-
-📁 src/
-├── app/         # Clase principal con el método main.
-├── model/       # Clases de dominio (Pedido, EstadoPedido, Repartidor)
-├── util/        #Clase recurso compartido (ZonaDeCarga)
-
-````
-
----
-
-
 
 ## ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
